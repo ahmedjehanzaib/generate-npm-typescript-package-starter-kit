@@ -1,0 +1,1 @@
+# generate-npm-typescript-package-starter-kit
